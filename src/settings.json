@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Premium Car Rental Service for Every Journey",
+        "title": "Drive Your Dreams"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Premium Car Rental Service for Every Journey",
+        "title": "Drive Your Dreams"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Premium Car Rental Service for Every Journey",
+        "title": "Drive Your Dreams"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Premium Car Rental Service for Every Journey",
+        "title": "Drive Your Dreams"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Premium Car Rental Service for Every Journey",
+        "title": "Drive Your Dreams"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Premium Car Rental Service for Every Journey",
+        "title": "Drive Your Dreams"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Premium Car Rental Service for Every Journey",
+        "title": "Drive Your Dreams"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Premium Car Rental Service for Every Journey",
+        "title": "Drive Your Dreams"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Premium Car Rental Service for Every Journey",
+        "title": "Drive Your Dreams"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Drive Your Dreams",
+  "subtitle": "Premium Car Rental Service for Every Journey"
+}
